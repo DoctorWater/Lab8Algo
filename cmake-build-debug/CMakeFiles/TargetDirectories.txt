@@ -1,0 +1,3 @@
+C:/Users/malck/CLionProjects/Laba8Algo/cmake-build-debug/CMakeFiles/Laba8Algo.dir
+C:/Users/malck/CLionProjects/Laba8Algo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/malck/CLionProjects/Laba8Algo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
